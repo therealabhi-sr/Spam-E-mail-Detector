@@ -335,10 +335,9 @@ This project helped in understanding:
 
 # 👨‍💻 Author
 
-Abhishek
+Abhishek sr
 
-Computer Science & Engineering Student  
-Aspiring AI/ML Engineer
+
 
 ---
 

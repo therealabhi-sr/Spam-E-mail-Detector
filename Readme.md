@@ -18,31 +18,19 @@ This project demonstrates an end-to-end ML engineering workflow including:
 
 ## 🏠 Home Screen
 
-> Add your screenshot here
-
-```text
-images/a.png
-```
+![Home Screen](images/a.png)
 
 ---
 
 ## 🚨 Spam Detection Example
 
-> Add your screenshot here
-
-```text
-images/b.png
-```
+![Spam Detection](images/b.png)
 
 ---
 
 ## ✅ Safe Email Detection Example
 
-> Add your screenshot here
-
-```text
-images/c.png
-```
+![Ham Detection](images/c.png)
 
 ---
 
@@ -95,6 +83,11 @@ spam_detector/
 ├── training/
 │   └── train.py
 │
+├── images/
+│   ├── a.png
+│   ├── b.png
+│   └── c.png
+│
 ├── streamlit_app.py
 ├── requirements.txt
 ├── README.md
@@ -138,7 +131,8 @@ Performed:
 - Word count analysis
 - Class distribution analysis
 
-Observations:
+### Observations
+
 - Spam emails were generally longer
 - Spam emails contained more words on average
 - Dataset was moderately balanced
